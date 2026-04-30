@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+LLM / RAG / Software Development
+
+Building AI systems with local LLMs, retrieval architectures, and multimodal understanding.
+
+Interested in:
+- RAG / RAGFusion
+- Local LLM systems
+- Multimodal AI
+- Computer Vision
+- Scientific & data visualization
+- UI/UX engineering
+- Full-stack development
+
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r,js,html,css,react,nodejs,mysql,figma,docker,arduino,linux)](https://skillicons.dev)
 
 
