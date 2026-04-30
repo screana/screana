@@ -19,7 +19,7 @@ Interested in:
 - Multimodal AI applications
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,c,go,js,react,nodejs,fastapi,mysql,postgres,docker,linux,bash,git,github,opencv,qt,figma,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,c,go,js,ts,react,nodejs,fastapi,mysql,postgres,docker,linux,bash,git,github,opencv,qt,figma,latex)](https://skillicons.dev)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=screana&show_icons=true&theme=tokyonight)
