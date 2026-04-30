@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c, cpp,py, go,r,js,html,css,react,nodejs,mysql,figma, docker, arduino, linux)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r,js,html,css,react,nodejs,mysql,figma,docker,arduino,linux)](https://skillicons.dev)
 
 
 
