@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 LLM / RAG / Software Development
-
 Building AI systems with local LLMs, retrieval architectures, and multimodal understanding.
 
 Interested in:
@@ -13,12 +12,19 @@ Interested in:
 - UI/UX engineering
 - Full-stack development
 
+## Currently Working On
+- Local LLM / RAG systems
+- High-context image understanding using VLMs
+- Scientific visualization tools
+- Multimodal AI applications
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,c,go,js,react,nodejs,fastapi,mysql,postgres,docker,linux,bash,git,github,opencv,qt,figma,latex)](https://skillicons.dev)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=screana&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=screana&layout=compact&theme=tokyonight)
 
 <!--
 **screana/screana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
