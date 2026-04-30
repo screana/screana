@@ -4,6 +4,7 @@ LLM / RAG / Software Development
 Building AI systems with local LLMs, retrieval architectures, and multimodal understanding.
 
 LLM / RAG / VLM を用いたシステム開発を個人 / 研究で行っています。
+また、学生団体NUTMEGにて学園祭のDX化アプリの開発をしています。
 
 Interested in:
 - RAG / RAGFusion
