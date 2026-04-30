@@ -3,6 +3,8 @@
 LLM / RAG / Software Development
 Building AI systems with local LLMs, retrieval architectures, and multimodal understanding.
 
+LLM / RAG / VLM を用いたシステム開発を個人 / 研究で行っています。
+
 Interested in:
 - RAG / RAGFusion
 - Local LLM/VLM systems
