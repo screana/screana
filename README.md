@@ -14,7 +14,7 @@ Interested in:
 - Full-stack development
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,r,js,html,css,react,nodejs,mysql,figma,docker,arduino,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,c,go,js,react,nodejs,fastapi,mysql,postgres,docker,linux,bash,git,github,opencv,qt,figma,latex)](https://skillicons.dev)
 
 
 
