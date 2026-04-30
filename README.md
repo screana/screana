@@ -6,8 +6,8 @@ Building AI systems with local LLMs, retrieval architectures, and multimodal und
 
 Interested in:
 - RAG / RAGFusion
-- Local LLM systems
-- Multimodal AI
+- Local LLM/VLM systems
+- Multimodal systems
 - Computer Vision
 - Scientific & data visualization
 - UI/UX engineering
