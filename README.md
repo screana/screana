@@ -7,7 +7,6 @@ LLM / RAG / VLM を用いたシステム開発を個人 / 研究で行ってい�
 また、学生団体NUTMEGにて学園祭のDX化アプリの開発をしています。
 
 ## Interested in:
-- RAG / RAGFusion
 - Local LLM/VLM systems
 - Multimodal systems
 - Computer Vision
