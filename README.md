@@ -23,7 +23,7 @@ LLM / RAG / VLM を用いたシステム開発を個人 / 研究で行ってい�
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,bash,nodejs,linux,docker,github,mysql,postgres,figma,latex,pytorch,opencv,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,js,ts,nodejs,linux,docker,github,mysql,postgres,supabase,vercel,notion,figma,latex,fastapi,electron,react,pytorch,opencv)](https://skillicons.dev)
 
 ## Stats
 <!--
